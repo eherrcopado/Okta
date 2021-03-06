@@ -271,8 +271,27 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>DemoField__c</fullName>
+        <description>This is a demo field.. Moving to UAT</description>
+        <externalId>false</externalId>
+        <label>Demo_Field</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>FLStest__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>FLStest</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>Fax</fullName>
