@@ -23,6 +23,10 @@
                 <behavior>Edit</behavior>
                 <field>Type</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Party_type__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
